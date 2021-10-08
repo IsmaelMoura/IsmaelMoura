@@ -46,4 +46,4 @@
 
 [![Linkedin: Ismael Moura](https://img.shields.io/badge/-IsmaelMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-moura-69a2701bb/)](https://www.linkedin.com/in/ismael-moura-69a2701bb/)
 [![Gmail Badge](https://img.shields.io/badge/ismaeldesousa2014@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub Ismael Moura]( https://img.shields.io/github/followers/IsmaelMoura?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub Ismael Moura](https://img.shields.io/github/followers/IsmaelMoura?label=follow&style=social)](https://github.com/IsmaelMoura)
