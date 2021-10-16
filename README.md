@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Prazer, meu nome é Ismael de Sousa e vou ingressar no mundo da <strong>Programação</strong>.<br>
+  Estou estudando curso ténico em informática pelo Senac Tatuapé, a fim de começar a carreira no desenvolvimento
 </p>
 
 <p align="left">
