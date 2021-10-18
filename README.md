@@ -19,7 +19,7 @@
    <strong>Ferramentas</strong><br><br>
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
 </p>
-<br><br><br>
+<br><br>
 <p align="center">
   📨 Clique para entrar em contato ⤵️
 </p>
