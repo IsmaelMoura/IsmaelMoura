@@ -113,11 +113,13 @@
     📆 March 2022 </br>
   </p>
   
+</br></br>  
   
 </div>
 
+<!-- Contact -->
 <h2>
-  📨 Clique para entrar em contato ⤵️
+  📨 Contact me here ⤵️
 </h2>
 
 <div>
