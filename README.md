@@ -18,8 +18,8 @@
 </br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IsmaelMoura&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ismael Moura github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelMoura&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IsmaelMoura&show_icons=true&count_private=true&hide_border=true&title_color=9e29fb&icon_color=d37d8d&text_color=c9d1d9&bg_color=060826"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelMoura&layout=compact&hide_border=true&title_color=9e29fb&text_color=c9d1d9&bg_color=060826"/>
 </div>
 
 </br>
