@@ -9,7 +9,7 @@
 
   In May 2022 I completed the <strong>Computer Technician</strong> course and learned many things, but the most important thing for me was <strong>Backend Development</strong>.
 
-  At the moment, I started my way to become a <strong>Backend Development Specialist</strong>, if you are interested to reach out me, send a message.
+  At the moment, I started my way to become a <strong>Backend Developer Specialist</strong>, if you are interested to reach out me, send a message.
 
   Thanks!
   </div>
