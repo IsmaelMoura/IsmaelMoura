@@ -74,49 +74,6 @@
 
 </br></br>
 
-<!-- Work Experience -->
-<div>
-  <h2>👨‍💼 Work Experience</h2>
-  
-  <p>
-    💼 Talent Acquisition Apprentice (<i>Jovem Aprendiz</i>) </br>
-    📍 Sinch - São Paulo, SP (REMOTE) </br>
-    📆 February 2022 - Present </br>
-  </p>
-</div>
-
-</br></br>
-
-<!-- Education -->
-<div>
-  <h2>👨‍🎓 Education</h2>
-  
-  <p>
-    <strong> 📖 Computer Technician </strong> </br>
-    📍 Senac Tatuapé - São Paulo, SP - Brasil </br>
-    📆 September 2020 - May 2022 </br>
-  </p>
-  
-  </br>
-  
-  <p>
-    <strong> 📖 Python Programming Language - Basic </strong> </br>
-    📍 Fundação Bradesco </br>
-    📆 February 2022 </br>
-  </p>
-  
-  </br>
-  
-  <p>
-    <strong> 📖 Information Technology Security </strong> </br>
-    📍 Fundação Bradesco </br>
-    📆 March 2022 </br>
-  </p>
-  
-</br></br>  
-  
-</div>
-
 <!-- Contact -->
 <h2>
   📨 Contact me here ⤵️
